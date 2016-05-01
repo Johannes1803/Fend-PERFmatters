@@ -15,6 +15,7 @@ using `npm install <module> --save-dev`
 3. [uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
 4. [cache-breaker](https://www.npmjs.com/package/grunt-cache-breaker)
 5. [htmlmin](https://www.npmjs.com/package/grunt-contrib-htmlmin)
+
 3. Run Grunt with `grunt`
 4. If you only want a specific task run `grunt [plugin]`
 	For plugin insert one of the following:
