@@ -7,16 +7,17 @@
 I optimized the PageSpeed of index.html to score higher than 90 on PageSpeed Insights.
 
 To optimize the CRP I set up a grunt task. If you want to execute the Grunt Task do as follows:
+
 1. In Terminal cd to the folder and run `npm install`
 
 2. The following plugins need to be installed,
 using `npm install <module> --save-dev`
 
-1. [imagemin](https://www.npmjs.com/package/grunt-contrib-imagemin)
-2. [cssmin](https://www.npmjs.com/package/grunt-contrib-cssmin)
-3. [uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
-4. [cache-breaker](https://www.npmjs.com/package/grunt-cache-breaker)
-5. [htmlmin](https://www.npmjs.com/package/grunt-contrib-htmlmin)
+- [imagemin](https://www.npmjs.com/package/grunt-contrib-imagemin)
+- [cssmin](https://www.npmjs.com/package/grunt-contrib-cssmin)
+- [uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
+- [cache-breaker](https://www.npmjs.com/package/grunt-cache-breaker)
+- [htmlmin](https://www.npmjs.com/package/grunt-contrib-htmlmin)
 
 3. Run Grunt with `grunt`
 
