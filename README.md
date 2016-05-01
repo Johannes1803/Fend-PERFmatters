@@ -8,8 +8,10 @@ I optimized the PageSpeed of index.html to score higher than 90 on PageSpeed Ins
 
 To optimize the CRP I set up a grunt task. If you want to execute the Grunt Task do as follows:
 1. In Terminal cd to the folder and run `npm install`
+
 2. The following plugins need to be installed,
 using `npm install <module> --save-dev`
+
 1. [imagemin](https://www.npmjs.com/package/grunt-contrib-imagemin)
 2. [cssmin](https://www.npmjs.com/package/grunt-contrib-cssmin)
 3. [uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
@@ -17,6 +19,7 @@ using `npm install <module> --save-dev`
 5. [htmlmin](https://www.npmjs.com/package/grunt-contrib-htmlmin)
 
 3. Run Grunt with `grunt`
+
 4. If you only want a specific task run `grunt [plugin]`
 	For plugin insert one of the following:
 	- `imagemin`: Optimize Images		
