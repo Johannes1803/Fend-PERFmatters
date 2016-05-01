@@ -1,0 +1,26 @@
+{
+  "name": "Project6_final",
+  "version": "0.0.0",
+  "description": "Perfoptimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perf"
+  ],
+  "author": "Johannes1803",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-uglify": "~1.0.1",
+    "grunt-contrib-imagemin": "~1.0.0",
+    "grunt-contrib-cssmin": "~1.0.1",
+    "grunt-cache-breaker": "~2.0.1",
+    "grunt-contrib-htmlmin": "~1.4.0",
+    "grunt-contrib-compress": "~1.2.0"
+  },
+  "dependencies": {
+    "imagemin": "~5.0.0"
+  }
+}
