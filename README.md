@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # Website Performance Optimization portfolio project
+## part of Udacity FEND
 ## General Goal:
 	Improve performance of Camerons portfolio website
 
